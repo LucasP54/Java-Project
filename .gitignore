@@ -1,0 +1,18 @@
+# Archivos compilados de Java
+*.class
+
+# Carpetas de compilación
+bin/
+out/
+build/
+
+# Configuración de VS Code
+.vscode/
+
+# Archivos temporales
+*.log
+*.tmp
+
+# Configuración del sistema
+.DS_Store
+Thumbs.db
